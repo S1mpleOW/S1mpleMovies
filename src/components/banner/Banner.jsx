@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import useSWR from 'swr';
 import { fetcher } from '../../config';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import Loading from '../loading/loading';
+import Loading from '../loading/Loading';
 import { useNavigate } from 'react-router-dom';
 
 const Banner = () => {
