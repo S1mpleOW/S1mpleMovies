@@ -2,7 +2,7 @@ import { lazy, Suspense } from 'react';
 import './App.scss';
 import { Routes, Route } from 'react-router-dom';
 import 'swiper/scss';
-import Loading from './components/loading/loading';
+import Loading from './components/loading/Loading';
 
 const Main = lazy(() => import('./components/layout/Main'));
 const HomePage = lazy(() => import('./pages/HomePage'));
