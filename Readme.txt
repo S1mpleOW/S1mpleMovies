@@ -1,5 +1,4 @@
-Họ tên và mã số sinh viên 1: Đỗ Quốc Dũng - 52000648
-Họ tên và mã số sinh viên 2: Lê Nguyễn Hữu Đức - 52000644
+Họ tên và mã số sinh viên: Đỗ Quốc Dũng - 52000648
 ******************************************************************
 
 Để chạy được source code cần cài đặt nodejs
